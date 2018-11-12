@@ -6,6 +6,8 @@ import android.widget.Checkable;
 
 public class MainActivity extends AppCompatActivity {
 
+    //https://medium.com/@AlbinPoignot/checkable-cardview-in-all-android-versions-7124ca6df1ab
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
